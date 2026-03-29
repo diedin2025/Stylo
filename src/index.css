@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply min-w-[320px] bg-[#fcf8f3] text-[#1f1726] antialiased;
+    background:
+      radial-gradient(circle at top left, rgba(236, 191, 166, 0.7), transparent 32%),
+      radial-gradient(circle at top right, rgba(146, 182, 167, 0.48), transparent 26%),
+      linear-gradient(180deg, #fcf8f3 0%, #f7efe7 100%);
+  }
+
+  #root {
+    @apply min-h-screen;
+  }
+}
