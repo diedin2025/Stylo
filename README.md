@@ -1,4 +1,4 @@
-# Halo House Prototype
+# Stylo Prototype
 
 React + Tailwind CSS prototype for a beauty-services marketplace focused on safer discovery, provider verification, and streamlined booking.
 
@@ -11,12 +11,6 @@ React + Tailwind CSS prototype for a beauty-services marketplace focused on safe
 - Verification status page
 - Tailwind CSS styling with Vite/PostCSS
 
-## Run locally
-
-```bash
-npm install
-npm run dev
-```
 
 ## Notes
 
