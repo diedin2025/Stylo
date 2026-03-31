@@ -16,4 +16,4 @@ React + Tailwind CSS prototype for a beauty-services marketplace focused on safe
 
 - This is a front-end prototype for pitching and product direction.
 - Booking payments and verification are visual placeholders only.
-# Stylo
+# Everything in this document is a prototype and isn't fully complete.
