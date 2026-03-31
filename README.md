@@ -22,3 +22,4 @@ npm run dev
 
 - This is a front-end prototype for pitching and product direction.
 - Booking payments and verification are visual placeholders only.
+# Stylo
